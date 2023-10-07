@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\lesson1C#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\lessonC#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\lesson1C#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\lessonC#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\lesson1C#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\lessonC#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj",
         "projectName": "Example001_helloConsole",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\lesson1C#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\lessonC#\\Examples\\Example001_helloConsole\\Example001_helloConsole.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\lesson1C#\\Examples\\Example001_helloConsole\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\lessonC#\\Examples\\Example001_helloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
